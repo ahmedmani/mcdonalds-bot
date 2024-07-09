@@ -1,2 +1,3 @@
 # mcdonalds-bot
- a mcdonalds bot that scrapes a list of availabe menu items in mcd Us restaurants 
+ this is a web scraper built on the mcd app api, it scrapes a list of availabe menu items in mcdonald's Us restaurants
+ 
